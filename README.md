@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Trip Tracker](https://github.com/sawtoothridge13/pjct-next-4-final-project)
 
-- 🌱 I’m currently learning **Next.js, PostgreSQL, TypeScript**
+- 🌱 I’m currently learning **Vue.js, Go, and TypeScript**
 
 - 📫 How to reach me **sawtoothridge13@gmail.com**
 
